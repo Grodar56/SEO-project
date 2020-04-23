@@ -1,0 +1,12 @@
+{
+  "name": "compressed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --style compressed style.css "
+
+  },
+  "author": "",
+  "license": "ISC"
+}
